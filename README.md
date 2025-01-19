@@ -1,16 +1,13 @@
 # Math Adaptive Learning Platform
 
 ## Project Overview
-This repository contains the codebase for a Math Adaptive Learning Platform, featuring:
-- Mobile app built with React Native/Expo
-- Web admin interface built with Next.js
+This repository contains both the mobile application (React Native/Expo) and web admin interface (Next.js) for the Math Adaptive Learning Platform.
 
-The platform aims to provide personalized math learning experiences through adaptive algorithms and interactive content.
+## Structure
+- `/mobile` - React Native/Expo mobile application
+- `/admin` - Next.js web admin interface
 
-## Repository Structure
-```
-math-adaptive-learning-platform
-├── README.md
-├── .gitignore
-├── mobile/         // React Native/Expo project
-└── admin/          // Next.js admin interface
+## Getting Started
+1. Clone the repository
+2. Install dependencies in both mobile and admin directories
+3. Follow platform-specific setup instructions in each directory
